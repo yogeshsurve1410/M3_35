@@ -1,5 +1,5 @@
 # RKE (Remote Keyless Entry)
  
-[![ Quality Score](https://app.codiga.io/public/user/github/yogeshsurve1410)]
+![Codiga code quality Scan](https://app.codiga.io/public/user/github/yogeshsurve1410)]
 
 [![Codacy Security Scan](https://github.com/yogeshsurve1410/M3_35/actions/workflows/codacy.yml/badge.svg)](https://github.com/yogeshsurve1410/M3_35/actions/workflows/codacy.yml)
