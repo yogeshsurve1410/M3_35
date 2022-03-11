@@ -1,6 +1,8 @@
  Requirements 
 =================
 
+Current Scenario :
+================
 * Remote keyless entry (RKE) systems have become extremely popular.
 * The installation rate for RKE systems in new vehicles is more than 80% in North America and more than 70% in Europe.
 * Besides the obvious advantages of convenience, RKE-actuated vehicle-immobilization technology minimizes car theft.
@@ -39,6 +41,41 @@ Low Level Requirements :
 
 
 
-![image](https://user-images.githubusercontent.com/83902823/157860280-b4ad16b1-2be2-4e43-96d3-e965e5be1174.png)
+SWOT Analysis :
+==============
+
+![swot](https://user-images.githubusercontent.com/83902823/157873975-3af6764f-b74b-489b-904c-80e02dc304d4.png)
+
+
+
+4 W's and 1 H :
+===========
+
+
+
+Who:
+======
+The project can be used almost by all people which wants to buy new car having such features as well as who wants to upgrade over traditional methods.vAt the end,user satisfaction and earier use of technology is the goal of this project.
+
+What:
+======
+ RKE (Remote Keyless Entry) System is one of type of automation in car. RKE-actuated vehicle-immobilization technology minimizes car theft and lots of features like for locking and unlocking the door. Activating or deactivating alarms as well as also used to light up car-inner lights.
+
+When:
+======
+when we have parked the car at unsafe place as well as it can also be used to find car in a huge parking point. This project is also used at night time when there is no lightwe can light up the inside car lights. The project can be used inside as well as outside the car.
+
+Where:
+=====
+The project can be used inside as well as outside the car.
+
+How:
+======
+*	Car will lock when switch press once
+•	Car will unlock when Blue switch press two times
+•	To set alarm activation/deactivation when Blue switch press three times
+•	For to approach light when Blue switch press four times
+
+
 
 
