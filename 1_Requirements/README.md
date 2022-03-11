@@ -45,25 +45,35 @@ Current Scenario :
 
 | ID    | Description | Category  | 
 | -------|------------|-----------|
-| HLR01 | User should able to lock the car  | Technical  |
-| HLR02 | User should able to unlock the car  | Technical  |  
-| HLR03 | User should able to activate alarm | Technical  | 
-| HLR04 | User should able to deactivate alarm | Technical  | 
-| HLR05 | User should able to approach lights | Technical  |
+| HLR01 | The RKE shall have a 4 Digit encryption keys.| Technical |
+| HLR02 |The target shall have 4 distinct states of actuation.|  Technical |
+| HLR03 | User should able to lock the car  | Technical  |
+| HLR04 | User should able to unlock the car  | Technical  |  
+| HLR05 | User should able to activate alarm | Technical  | 
+| HLR06 | User should able to deactivate alarm | Technical  | 
+| HLR07 | User should able to approach lights | Technical  |
 
 
 Low Level Requirements :
 =======================
 | ID    | Description | Status  |
 | ------| ----------- |-----------| 
-| LLR01 | STM32 should be able to run on PC   | implemented  |
-| LLR02 | Hex file must be run without any error |  implemented  |  
-| LLR03 | Delay should be properly added in code |  implemented   | 
-| LLR04 | Static keywords are used |  implemented  | 
-| LLR05 | Functions to single click  | implemented   |
-| LLR06 | Functions to double click |  implemented | 
-| LLR07 | Functions to triple click | implemented  |
-| LLR08 | Functions to quard click | implemented |
+|LLR01	|The encryption for locked system shall be 1001 | implemented |
+|LLR02	|The encryption for unlocked system shall be 1010| implemented |
+|LLR03	|The encryption for alarm activation shall be 1011| implemented |
+|LLR04	|The encryption for approach light shall be 1100| implemented |
+|LLR05	|The button shall be actuated once to lock the system | implemented |
+|LLR06	|The button shall be actuated twice to unlock the system | implemented |
+|LLR07	|The button shall be actuated thrice to activate/deactive alarm of the system. | implemented |
+|LLR08|The button shall be actuated four times to turn on the approach light. | implemented |
+| LLR09 | STM32 should be able to run on PC   | implemented  |
+| LLR10 | Hex file must be run without any error |  implemented  |  
+| LLR11 | Delay should be properly added in code |  implemented   | 
+| LLR12 | Static keywords are used |  implemented  | 
+| LLR13 | Functions to single click  | implemented   |
+| LLR14 | Functions to double click |  implemented | 
+| LLR15| Functions to triple click | implemented  |
+| LLR16 | Functions to quard click | implemented |
 
 
 
