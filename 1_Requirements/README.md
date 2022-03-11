@@ -11,8 +11,8 @@
 * It shows some circuits and design approaches and offers some predictions for future systems, which will include two-way communications.
 
 
-# High level Requirements :
-=======================
+ High level Requirements :
+=============
 
 | ID    | Description | Category  | 
 | -------|------------|-----------|
