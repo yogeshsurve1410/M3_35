@@ -3,10 +3,9 @@
 ######
 ######
 ######
-
 # RKE (Remote Keyless Entry)   
 ######
-                                                -contributors : Vignesh Bhat & Yogesh Surve
+                                                -contributors of this project : Vignesh Bhat & Yogesh Surve
 ######
 ######
 ######
